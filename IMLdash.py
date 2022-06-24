@@ -13,7 +13,7 @@ from urllib.request import urlopen
 import requests
 import configparser
 import json
-import plotly.express as px
+#import plotly.express as px
 from sklearn.cluster import KMeans
 from joblib import load
 from PIL import Image
