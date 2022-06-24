@@ -15,7 +15,7 @@ import configparser
 import json
 #import plotly.express as px
 #from sklearn.cluster import KMeans
-from joblib import load
+#from joblib import load
 from PIL import Image
 import plotly.graph_objects as go
 
