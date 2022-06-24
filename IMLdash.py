@@ -6,7 +6,7 @@ import numpy as np
 import streamlit as st
 import streamlit.components.v1 as components
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import seaborn as sns
 import urllib
 from urllib.request import urlopen
