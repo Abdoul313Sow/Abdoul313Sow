@@ -17,7 +17,7 @@ import json
 #from sklearn.cluster import KMeans
 #from joblib import load
 from PIL import Image
-import plotly.graph_objects as go
+#import plotly.graph_objects as go
 
 st.title("Service Intégré d’Accueil et d’Orientation du Var")
 #st.write( "Modèle d’aide à la décision pour les orientations IML.")
